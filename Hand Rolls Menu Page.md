@@ -1,4 +1,4 @@
-# Hand Rolls in San Antonio
+# Japanese Hand Rolls in San Antonio
 
 Experience the fun and flavor of traditional Japanese hand rolls (Temaki) at Sake Cafe Sushi Bar & Grill in San Antonio. Expertly rolled into a crisp nori cone and packed with fresh seafood, rice, and crisp vegetables, our hand rolls are designed to be eaten by hand for the perfect bite. Join us in Stone Oak for a fresh, interactive, and delicious sushi experience.
 
