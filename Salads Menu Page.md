@@ -1,4 +1,4 @@
-# Fresh Salads in San Antonio
+# Fresh Japanese Salads in San Antonio
 
 Start your meal with a refreshing Japanese salad at Sake Cafe Sushi Bar & Grill in San Antonio. From classic seaweed and cucumber salads to our premium Spicy Seafood and Tuna salads, our menu offers light, vibrant options to awaken your palate. Join us in Stone Oak for a crisp, healthy start to your sushi dining experience.
 
