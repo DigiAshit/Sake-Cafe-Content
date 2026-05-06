@@ -1,4 +1,4 @@
-# Appetizers in San Antonio
+# Japanese Appetizers in San Antonio
 
 Explore fresh Japanese appetizers at Sake Cafe Sushi Bar & Grill in San Antonio. From delicate tempura and savory gyoza to refreshing tuna tataki and our signature cold starters, our appetizer menu features flavorful dishes perfect for sharing or starting your meal. Join us in Stone Oak to discover the perfect beginning to your Japanese dining experience.
 
