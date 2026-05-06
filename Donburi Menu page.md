@@ -1,4 +1,4 @@
-# Donburi Bowls in San Antonio
+# Japanese Donburi Bowls in San Antonio
 
 Experience the classic comfort of Japanese Donburi bowls at Sake Cafe Sushi Bar & Grill in San Antonio. Served over a steaming bed of premium rice, our donburi dishes feature rich, savory toppings like grilled unagi (eel) and crispy tempura. Join us in Stone Oak for a hearty, traditional Japanese rice bowl that is perfect for a quick lunch or a satisfying dinner.
 
