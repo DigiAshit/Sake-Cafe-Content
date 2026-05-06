@@ -1,4 +1,4 @@
-# Fresh Sashimi in San Antonio
+# Fresh Japanese Sashimi in San Antonio
 
 Experience the delicate art of Japanese sashimi at Sake Cafe Sushi Bar & Grill in San Antonio. Hand-selected for premium quality and expertly sliced, our sashimi offers the purest taste of the ocean. Join us in Stone Oak to enjoy high-quality raw fish served without rice, perfect for a light, low-carb, and flavor-rich meal.
 
