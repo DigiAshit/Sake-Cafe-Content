@@ -1,3 +1,8 @@
+---
+Meta Title: Fresh Japanese Sashimi in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Fresh Sashimi at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Fresh Japanese Sashimi in San Antonio
 
 Experience the delicate art of Japanese sashimi at Sake Cafe Sushi Bar & Grill in San Antonio. Hand-selected for premium quality and expertly sliced, our sashimi offers the purest taste of the ocean. Join us in Stone Oak to enjoy high-quality raw fish served without rice, perfect for a light, low-carb, and flavor-rich meal.
@@ -109,3 +114,48 @@ Sashimi is best enjoyed with a light touch of soy sauce, a dab of wasabi, and a 
 Enjoy the freshest, highest-quality sashimi from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between Sushi and Sashimi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sashimi is simply fresh, premium raw fish sliced and served on its own without rice. Sushi (or Nigiri) is sliced fish served over a small bed of seasoned sushi rice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is all sashimi raw?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most sashimi is raw, like our Tuna and Yellowtail. However, options like Eel (Unagi) and Crab Stick are cooked!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a sashimi combination platter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While these are a la carte orders of 4 pieces, our chefs frequently prepare large, beautiful mixed platters for guests upon request!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What pairs best with sashimi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sashimi is best enjoyed with a light touch of soy sauce, a dab of wasabi, and a refreshing sake or light Japanese beer."
+      }
+    }
+  ]
+}
+</script>
+```
