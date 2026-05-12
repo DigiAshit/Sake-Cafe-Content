@@ -1,3 +1,8 @@
+---
+Meta Title: Yaki Meshi (Fried Rice) in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Yaki Meshi (Fried Rice) at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Yaki Meshi (Fried Rice) in San Antonio
 
 Enjoy expertly crafted Japanese fried rice, known as Yaki Meshi, at Sake Cafe Sushi Bar & Grill in San Antonio. Wok-fired to order with fresh ingredients, egg, and our signature savory seasoning, our Yaki Meshi is the perfect comfort food. Join us in Stone Oak for a hearty, flavorful dish that perfectly complements any Japanese meal.
@@ -81,3 +86,48 @@ Yaki Meshi pairs wonderfully with our Chicken or Beef Yakitori, or as a side to 
 Enjoy the freshest Japanese fried rice from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes Yaki Meshi different from regular fried rice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yaki Meshi is a traditional Japanese-style fried rice. It relies on shorter grain rice and a slightly sweeter, savory soy-based seasoning compared to Chinese fried rice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I order the fried rice without egg or certain vegetables?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Since every order is wok-fired fresh, we are happy to accommodate modifications like \"no egg\" or omitting specific vegetables."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are Yaki Meshi dishes available for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Our fried rice is perfect for takeout or delivery and stays hot and delicious on the ride home in San Antonio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I pair with my fried rice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yaki Meshi pairs wonderfully with our Chicken or Beef Yakitori, or as a side to our fresh Sushi Rolls."
+      }
+    }
+  ]
+}
+</script>
+```
