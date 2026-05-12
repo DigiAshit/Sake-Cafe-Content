@@ -87,7 +87,9 @@ Enjoy the best Yakisoba noodles from Sake Cafe Sushi Bar & Grill in San Antonio.
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
 
+---
 
+```html
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -128,3 +130,4 @@ Enjoy the best Yakisoba noodles from Sake Cafe Sushi Bar & Grill in San Antonio.
   ]
 }
 </script>
+```
