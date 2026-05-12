@@ -1,3 +1,8 @@
+---
+Meta Title: Japanese Appetizers in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Appetizers at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Japanese Appetizers in San Antonio
 
 Explore fresh Japanese appetizers at Sake Cafe Sushi Bar & Grill in San Antonio. From delicate tempura and savory gyoza to refreshing tuna tataki and our signature cold starters, our appetizer menu features flavorful dishes perfect for sharing or starting your meal. Join us in Stone Oak to discover the perfect beginning to your Japanese dining experience.
@@ -117,3 +122,47 @@ Light, savory starters like Edamame, Garlic Pepper Tuna, or Tuna Tataki perfectl
 Enjoy the freshest Japanese appetizers from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What appetizers are popular at Sake Cafe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our guests love the classic Gyoza (Dumplings), crispy Shrimp Tempura, and our signature Ahi Tuna Tower. If you like a bit of heat, the JalapeÃ±o Poppers are a must-try!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer vegetarian appetizers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! We offer several vegetarian options, including Edamame, Spring Rolls, and Vegetable Tempura."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are appetizers available for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. All of our hot and cold appetizers can be ordered online for quick and easy takeout in San Antonio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which appetizers pair best with sushi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light, savory starters like Edamame, Garlic Pepper Tuna, or Tuna Tataki perfectly complement the fresh flavors of our sushi and sashimi rolls."
+      }
+    }
+  ]
+}
+</script>
+```
