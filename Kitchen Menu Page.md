@@ -1,3 +1,8 @@
+---
+Meta Title: Japanese Kitchen EntrÃ©es in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Japanese Kitchen EntrÃ©es at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Japanese Kitchen Entrées in San Antonio
 
 Enjoy comforting, hot Japanese kitchen entrées at Sake Cafe Sushi Bar & Grill in San Antonio. From sizzling Chicken Teriyaki and crispy Pork Katsu to our rich Grilled Tuna, our kitchen menu offers bold, authentic flavors for those who prefer cooked dishes. Join us in Stone Oak for a hearty, satisfying meal crafted with premium ingredients and traditional Japanese techniques.
@@ -107,3 +112,48 @@ Yes! All of our hot kitchen entrées are packaged securely to stay hot and crisp
 Enjoy the best hot Japanese entrées from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What comes with the kitchen entrÃ©es?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most of our kitchen entrÃ©es are served with a side of steamed white rice. Please ask your server about upgrading to fried rice or adding a soup or salad!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Chicken Katsu the same as Teriyaki?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, Chicken Teriyaki is grilled and glazed in a sweet soy sauce, while Chicken Katsu is breaded in panko and deep-fried for a crispy texture."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer any vegetarian kitchen entrÃ©es?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While our main entrÃ©es feature proteins, we can prepare a delicious Vegetable Yasai (stir-fried vegetables) upon request, or you can explore our Yakisoba and Yaki Meshi menus!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are these dishes available for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! All of our hot kitchen entrÃ©es are packaged securely to stay hot and crispy for takeout and delivery in San Antonio."
+      }
+    }
+  ]
+}
+</script>
+```
