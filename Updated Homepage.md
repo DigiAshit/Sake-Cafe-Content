@@ -105,3 +105,48 @@ Discover why locals consider Sake Cafe one of the best sushi restaurants in San 
 ### CTA Buttons
 - Get Directions
 - Order Online
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What makes Sake Cafe one of the best sushi restaurants in San Antonio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We combine fresh ingredients, authentic Japanese recipes, expertly crafted sushi, and exceptional service to deliver a premium dining experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer takeout and online ordering?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer convenient takeout and online ordering for many of our menu items."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you serve more than sushi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. In addition to sushi, we offer hibachi, teriyaki, tempura, appetizers, lunch specials, and more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where are you located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We are conveniently located in Stone Oak, serving guests from across San Antonio."
+      }
+    }
+  ]
+}
+</script>
+```
