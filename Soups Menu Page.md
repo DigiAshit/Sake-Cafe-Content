@@ -1,3 +1,8 @@
+---
+Meta Title: Japanese Soups & Ramen in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Soups & Ramen at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Japanese Soups & Ramen in San Antonio
 
 Warm up with authentic Japanese soups, udon, and ramen at Sake Cafe Sushi Bar & Grill in San Antonio. From traditional miso soup and hearty tonkotsu ramen to savory seafood udon, our steaming bowls are crafted with rich, flavorful broths. Visit us in Stone Oak for the ultimate comfort food experience that perfectly complements your Japanese dining adventure.
@@ -111,3 +116,48 @@ Our Tonkotsu Ramen, known for its creamy, rich pork broth, and our spicy Tan Tan
 Enjoy the best ramen and Japanese soups from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between Ramen and Udon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ramen noodles are thinner and typically served in a richer, meat or soy-based broth. Udon noodles are thick, chewy wheat noodles, often served in a lighter, savory dashi broth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is your Miso soup vegetarian?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional miso soup contains dashi (fish stock), but we also offer a dedicated Vegan Ramen and a fresh Vegetable Soup for our plant-based guests."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I order ramen for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! We package the hot broth separately from the noodles and toppings so your ramen stays perfectly fresh and doesn't get soggy on the way home."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most popular ramen bowls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our Tonkotsu Ramen, known for its creamy, rich pork broth, and our spicy Tan Tan Chicken are fan favorites!"
+      }
+    }
+  ]
+}
+</script>
+```
