@@ -1,3 +1,8 @@
+---
+Meta Title: Japanese Hand Rolls in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Hand Rolls at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Japanese Hand Rolls in San Antonio
 
 Experience the fun and flavor of traditional Japanese hand rolls (Temaki) at Sake Cafe Sushi Bar & Grill in San Antonio. Expertly rolled into a crisp nori cone and packed with fresh seafood, rice, and crisp vegetables, our hand rolls are designed to be eaten by hand for the perfect bite. Join us in Stone Oak for a fresh, interactive, and delicious sushi experience.
@@ -139,3 +144,48 @@ Absolutely. Just let your server know if you'd like to remove an ingredient or a
 Enjoy the freshest, crispiest hand rolls from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a Hand Roll (Temaki) and a Sushi Roll (Maki)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A traditional sushi roll (Maki) is rolled into a cylinder and sliced into bite-sized pieces. A hand roll (Temaki) is rolled into a large, ice-cream-cone shape and is meant to be eaten whole with your hands, offering a different ratio of ingredients and crispier seaweed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are hand rolls good for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While we do offer them for takeout, hand rolls are best enjoyed immediately while dining in! Because the seaweed is wrapped directly around the warm rice and moist ingredients, it can lose its signature crispness over time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer vegetarian hand rolls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Our Vegetable Hand Roll is a fresh, crisp, and delicious vegetarian option."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I customize my hand roll?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Just let your server know if you'd like to remove an ingredient or add something like avocado or spicy mayo."
+      }
+    }
+  ]
+}
+</script>
+```
