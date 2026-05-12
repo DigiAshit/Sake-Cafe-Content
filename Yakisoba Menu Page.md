@@ -1,5 +1,5 @@
 ---
-Meta Title: Yakisoba in San Antonio | Sake Cafe
+Meta Title: Japanese Yakisoba in San Antonio | Sake Cafe
 Meta Description: Enjoy the best Yakisoba at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
 ---
 
