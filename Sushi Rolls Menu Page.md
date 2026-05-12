@@ -1,3 +1,8 @@
+---
+Meta Title: Classic Sushi Rolls in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Classic Sushi Rolls at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Classic Sushi Rolls in San Antonio
 
 Explore fresh, handcrafted sushi rolls at Sake Cafe Sushi Bar & Grill in San Antonio. From classic favorites like the California and Spicy Tuna rolls to comforting tempura maki, our sushi menu features something for every palate. Join us in Stone Oak for authentic, carefully prepared sushi that highlights the freshness of our premium ingredients.
@@ -143,3 +148,48 @@ The California Roll, Shrimp Tempura Roll, and Philadelphia Roll are great cooked
 Enjoy the freshest traditional sushi rolls from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+---
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer vegetarian sushi rolls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! We offer a fresh Vegetable Roll, Cucumber Roll, and Avocado Maki."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get my sushi rolls with soy paper instead of seaweed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Just let your server know, and we can substitute soy paper for nori on any of our classic rolls."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are these rolls available for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all of our classic sushi rolls can be ordered online for quick and easy takeout in San Antonio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which rolls are best for beginners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The California Roll, Shrimp Tempura Roll, and Philadelphia Roll are great cooked options for those new to sushi!"
+      }
+    }
+  ]
+}
+</script>
+```
