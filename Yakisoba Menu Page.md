@@ -1,3 +1,8 @@
+---
+Meta Title: Yakisoba in San Antonio | Sake Cafe
+Meta Description: Enjoy the best Yakisoba at Sake Cafe in Stone Oak. Fresh, authentic, and delicious Japanese cuisine!
+---
+
 # Japanese Yakisoba in San Antonio
 
 Experience authentic Japanese Yakisoba noodles at Sake Cafe Sushi Bar & Grill in San Antonio. From fresh vegetable yakisoba to savory beef and our loaded seafood combo, our wok-fired noodles are a comforting favorite. Visit us in Stone Oak for a rich, satisfying noodle dish that pairs perfectly with any of our signature sushi rolls.
@@ -81,3 +86,45 @@ Light starters like Edamame or our crispy Spring Rolls are perfect pairings befo
 Enjoy the best Yakisoba noodles from Sake Cafe Sushi Bar & Grill in San Antonio. 
 
 [Order Online for Pickup](https://order.toasttab.com/online/sake-cafe-sushi-bar-grill-new-texas-vip-llc-19179-blanco-road) | [Visit Us in Stone Oak](https://sakesushisa.com/contact/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What proteins can I get with my Yakisoba?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can choose from Chicken, Beef, Shrimp, Seafood, or a Combo of meats. We also offer Vegetable and Plain Yakisoba."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Yakisoba spicy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, our traditional Yakisoba features a sweet and savory umami glaze. If you prefer heat, feel free to ask for a side of chili sauce!"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are Yakisoba noodles available for takeout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. All of our hot noodle dishes travel exceptionally well and can be ordered online for takeout in San Antonio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which appetizers pair best with Yakisoba?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light starters like Edamame or our crispy Spring Rolls are perfect pairings before a hearty bowl of noodles."
+      }
+    }
+  ]
+}
+</script>
+
