@@ -11,63 +11,42 @@ Warm up with authentic Japanese soups, udon, and ramen at Sake Cafe Sushi Bar & 
 
 ## Our Soups & Noodle Bowls
 
-### Light & Traditional Soups
+### Soups
 
 ### Miso Soup
-$2.99
-A classic Japanese staple. Warm, savory miso broth with soft tofu, seaweed, and scallions.
+$3.00  
+Classic Japanese miso broth served warm and comforting.  
+*Add wonton .50¢*
 
 ### Vegetable Soup
-$8.99
-A light, clear, and comforting broth loaded with an assortment of fresh, seasonal vegetables.
+$8.95  
+Steamed fresh vegetables and green seaweed in rich lobster broth.
 
 ### Seafood Soup
-$16.99
-A premium, rich broth packed with a generous medley of fresh seafood and bold, savory flavors.
+$17.95  
+Mixed seafood, shrimp, green mussel, jumbo scallops, and squid in rich lobster broth.
 
-### Ramen Bowls
+### Noodle Soups
 
-### Plain Ramen
-$9.99
-Our classic, comforting ramen noodles served in a savory, hot broth. Simple and delicious.
+### Seafood Ramen Noodle Soup
+$18.95  
+Fusion noodle soup with mixed seafood, shrimp, green mussel, jumbo scallop, squid, and fish cake.
 
-### Vegan Ramen
-$13.99
-A rich, plant-based broth served with fresh vegetables and perfectly cooked ramen noodles.
+### Sukiyaki Udon Noodle Soup
+$15.95  
+Grilled Ribeye Angus steak with udon noodles in bonito broth.
 
-### Tan Tan Chicken Ramen
-$13.99
-A spicy, savory sesame-based broth topped with seasoned chicken and traditional ramen fixings.
+### Vegetable Udon Noodle Soup
+$11.95  
+Fried or steamed vegetables and wakame seaweed in bonito broth.
 
-### Tonkotsu Ramen
-$13.99
-Our signature rich, creamy pork bone broth served with tender pork, noodles, and a soft-boiled egg.
+### Tempura Udon Noodle Soup
+$13.95  
+Shrimp tempura, wakame seaweed, and udon noodles in savory bonito broth.
 
-### Miso Ramen
-$13.99
-Hearty ramen noodles in a robust, savory miso-based broth, topped with classic Japanese ingredients.
-
-### Shoyu Ramen
-$13.99
-A clear, soy sauce-based broth that is light yet deeply flavorful, served with noodles and toppings.
-
-### Seafood Ramen
-$15.99
-Our classic ramen noodles swimming in a rich broth packed with an array of fresh seafood.
-
-### Udon Noodle Soups
-
-### Vegetable Udon Soup
-$11.99
-Thick, chewy udon noodles in a hot, savory broth, topped with an assortment of fresh vegetables.
-
-### Tempura Udon Soup
-$13.99
-Classic hot udon noodle soup served with a side of crispy, golden-fried shrimp and vegetable tempura.
-
-### Sukiyaki Udon Soup
-$15.99
-A rich, sweet-and-savory soy broth loaded with tender beef, vegetables, and thick udon noodles.
+### Large Miso Soup
+$6.00  
+1 quart of traditional miso soup.
 
 ---
 
