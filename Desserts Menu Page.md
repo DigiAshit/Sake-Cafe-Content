@@ -10,25 +10,19 @@ End your meal on a sweet note with our delightful Japanese desserts at Sake Cafe
 
 ## Our Desserts Menu
 
-### Traditional & Sweet Treats
-
-### Ice Cream
-$3.99
-A cool, refreshing scoop of traditional ice cream. Perfect for cleansing the palate after a savory meal.
+### Desserts
 
 ### Mochi Ice Cream
-$4.99
-A classic Japanese dessert. Sweet, premium ice cream wrapped in a soft, chewy, and delicate rice dough (mochi).
+$4.95  
+Traditional Japanese mochi wrapped around creamy ice cream.
 
-### Tempura & Fried Desserts
+### Tempura Cheesecake
+$6.95  
+Rich cheesecake lightly fried until golden and crispy.
 
-### Fried Banana
-$4.99
-Sweet, ripe bananas coated in a light, crispy tempura batter, fried to golden perfection, and served warm.
-
-### Fried Ice Cream
-$6.99
-A decadent treat! A generous scoop of ice cream encased in a sweet, crispy breading and quickly flash-fried, creating a perfect hot-and-cold contrast.
+### Fried Banana with Ice Cream
+$6.95  
+Sweet fried banana served warm with creamy ice cream.
 
 ---
 
